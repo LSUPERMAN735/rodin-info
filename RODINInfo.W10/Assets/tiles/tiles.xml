@@ -1,0 +1,19 @@
+<tile>
+  <visual branding="nameAndLogo" displayName="RODIN info E4UWP">
+    <binding template="TileMedium">
+      <text hint-maxLines="1" hint-style="title">RODIN info E4UWP</text>
+      <text hint-wrap="true" hint-maxLines="5" hint-style="bodySubtle">RODIN EXCLUSIF à #WINDOWS10</text>
+      <image src="ms-appx:///Assets/DataImages/th-80x80-penseur.jpg-1.png" placement="peek" />
+    </binding>
+    <binding template="TileWide">
+      <text hint-maxLines="1" hint-style="title">RODIN info E4UWP</text>
+      <text hint-wrap="true" hint-maxLines="5" hint-style="bodySubtle">RODIN EXCLUSIF à #WINDOWS10</text>
+      <image src="ms-appx:///Assets/DataImages/th-80x80-penseur.jpg-1.png" placement="peek" />
+    </binding>
+    <binding template="TileLarge">
+      <text hint-maxLines="1" hint-style="title">RODIN info E4UWP</text>
+      <text hint-wrap="true" hint-maxLines="5" hint-style="bodySubtle">RODIN EXCLUSIF à #WINDOWS10</text>
+      <image src="ms-appx:///Assets/DataImages/th-80x80-penseur.jpg-1.png" placement="peek" />
+    </binding>
+  </visual>
+</tile>
