@@ -1,0 +1,58 @@
+[
+  {
+    "MenuType": "DeepLink",
+    "Title": "appeler",
+    "Icon": "/Assets/DataImages/callto.png",
+    "Target": "tel:0155431000 ",
+    "_id": "3424ff4d-2f38-449c-9217-a956bf491f26"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "cartes",
+    "Icon": "/Assets/DataImages/bingmaps.png",
+    "Target": "bingmaps:?collection=point.48.83268737792969_2.346956968307495_&lvl=18",
+    "_id": "a35c460e-7e4d-4c0a-87d6-7ec2713d9166"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "viescolaire.net",
+    "Icon": "/Assets/DataImages/logo-LVS_AXESS-OMT-I.png",
+    "Target": "https://citescolairerodinparis.la-vie-scolaire.fr/",
+    "_id": "ee56f34c-d931-4e66-80b8-ff2ca08ea49a"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "FACEBOOK",
+    "Icon": "/Assets/DataImages/Facebook_logo__squar.png",
+    "Target": "https://www.facebook.com/college-lycee-rodin-98634955898/",
+    "_id": "42a513b4-fd77-4226-923c-c79a68532342"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "MAIL",
+    "Icon": "/Assets/DataImages/mailto.png",
+    "Target": "mailto:ce.0752538B@ac-paris.fr",
+    "_id": "e2c9d4f9-67de-4361-971b-1d115ce03057"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "SITE",
+    "Icon": "/Assets/DataImages/th-80x80-penseur.png",
+    "Target": "https://www.ac-paris.fr/serail/jcms/s2_111988/accueil",
+    "_id": "2ac18436-9d35-4850-895c-c53461a1cb5f"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "fournitures",
+    "Icon": "/Assets/DataImages/logofourniturescolai.png",
+    "Target": "FournituresListPage",
+    "_id": "82c74d8b-70e4-43c5-a2c0-d64e0abc803f"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "UTILES",
+    "Icon": "/Assets/DataImages/useful.png",
+    "Target": "UTILESListPage",
+    "_id": "eca71e5b-8c22-4f1e-ba8d-7b7902bfbd67"
+  }
+]
