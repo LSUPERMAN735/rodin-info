@@ -1,0 +1,142 @@
+[
+  {
+    "MenuType": "Page",
+    "Title": "Présentation générale",
+    "Icon": "/Assets/DataImages/presentation.png",
+    "Target": "PresentationGeneraleListPage",
+    "_id": "16e77fff-fd0c-419e-ba32-3233fb85608c"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "conseil de lecture",
+    "Icon": "/Assets/DataImages/livre-2.png",
+    "Target": "ConseilDeLectureListPage",
+    "_id": "22269927-7f64-472f-868c-9c5bcff8a2c7"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "CDI",
+    "Icon": "/Assets/DataImages/CDI-2.png",
+    "Target": "CDIListPage",
+    "_id": "f3c54319-5f0b-49d7-bba6-48f2c4d7f0f3"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Allemand",
+    "Icon": "/Assets/DataImages/allemand.png",
+    "Target": "AllemandListPage",
+    "_id": "f0751dd3-5c26-4d96-b2c7-e57e4f489adb"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Anglais et section européenne",
+    "Icon": "/Assets/DataImages/angletrere.png",
+    "Target": "AnglaisEtSectionEuropeenneListPage",
+    "_id": "dc2ee2af-4e60-4ec5-aa0c-7a7246aaacbc"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Italien",
+    "Icon": "/Assets/DataImages/italie.png",
+    "Target": "ItalienListPage",
+    "_id": "869ece7d-b42a-4c65-b001-d5b4bdb29c17"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Section européenne espagnol",
+    "Icon": "/Assets/DataImages/espgn.png",
+    "Target": "SectionEuropeenneEspagnolListPage",
+    "_id": "1a58c4cc-d40e-4a29-97c7-4530dd38edab"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Arts plastiques",
+    "Icon": "/Assets/DataImages/artpls.png",
+    "Target": "ArtsPlastiquesListPage",
+    "_id": "cce3ead1-20b3-475d-b847-dbbc86071e28"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Cinéma-audiovisuel",
+    "Icon": "/Assets/DataImages/auuddc.png",
+    "Target": "CinemaAudiovisuelListPage",
+    "_id": "cd25eb1b-bed2-4b43-aa2f-d1741d6f3359"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Théâtre",
+    "Icon": "/Assets/DataImages/theatre.png",
+    "Target": "TheatreListPage",
+    "_id": "51ffd5ce-58fe-4550-8221-3ce07a58c30a"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Histoire des arts",
+    "Icon": "/Assets/DataImages/hodza.png",
+    "Target": "HistoireDesArtsListPage",
+    "_id": "5366580d-f93d-4b67-81e5-9fdef57440a3"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Langues et cultures ",
+    "Icon": "/Assets/DataImages/lannsguescultures.png",
+    "Target": "LanguesEtCulturesListPage",
+    "_id": "78c1d38c-9945-462a-9855-c0afc5b8219c"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Littérature et société",
+    "Icon": "/Assets/DataImages/litesoc.png",
+    "Target": "LitteratureEtSocieteListPage",
+    "_id": "d6b65fb8-16f6-4e02-a09b-3a4196f4a824"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "SVT",
+    "Icon": "/Assets/DataImages/svtlogo.png",
+    "Target": "SVTListPage",
+    "_id": "5ecf7189-3d35-4976-8282-88b01562e98c"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "SES",
+    "Icon": "/Assets/DataImages/ses.png",
+    "Target": "SESListPage",
+    "_id": "7fe40b58-53d6-4a40-9eda-77e39563f332"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Sciences physiques",
+    "Icon": "/Assets/DataImages/mpss.png",
+    "Target": "SciencesPhysiquesListPage",
+    "_id": "5df8b58f-47f6-40e6-a2ce-7a789168365b"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "TERMINALE S NUMERIQUE",
+    "Icon": "/Assets/DataImages/termsnumeric.png",
+    "Target": "TERMINALESNUMERIQUEListPage",
+    "_id": "838d2502-98bc-48bf-b2d8-02d3cad24931"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "TEMINALE ES MATHS",
+    "Icon": "/Assets/DataImages/termesmaths.png",
+    "Target": "TEMINALEESMATHSListPage",
+    "_id": "7cac5d07-31d8-4ed4-9c70-810a7ca6fb36"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "TERMINALE S MATHS",
+    "Icon": "/Assets/DataImages/terms.png",
+    "Target": "TERMINALESMATHSListPage",
+    "_id": "8e82d6bb-14d9-48b6-a66f-3f4d1da8b94a"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "EPS",
+    "Icon": "/Assets/DataImages/sport-1.png",
+    "Target": "EPSListPage",
+    "_id": "aa23ea51-4d69-4c70-8a4b-4c8b9db9f79c"
+  }
+]

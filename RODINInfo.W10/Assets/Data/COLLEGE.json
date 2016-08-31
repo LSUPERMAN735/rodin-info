@@ -1,0 +1,44 @@
+[
+  {
+    "MenuType": "Page",
+    "Title": "CONSEIL DE LECTURE",
+    "Icon": "/Assets/DataImages/livre.png",
+    "Target": "CONSEILDELECTURE1ListPage",
+    "_id": "0d8072c5-ac90-442b-99be-d16e7c1c4f0d"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Section européenne Espagnol",
+    "Icon": "/Assets/DataImages/espgn-2.png",
+    "Target": "SectionEuropeenneEspagnol1ListPage",
+    "_id": "3202905b-e38c-47a3-9f75-e920796000fd"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "6EME ANGLAIS ALLEMAND",
+    "Icon": "/Assets/DataImages/anglienne-2.png",
+    "Target": "EMEANGLAISALLEMANDListPage",
+    "_id": "cde71149-266e-4dbf-a457-3b4f5904a568"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "6EME ANGLAS ITALIEN",
+    "Icon": "/Assets/DataImages/anglienne.png",
+    "Target": "EMEANGLASITALIENListPage",
+    "_id": "0a12977a-3f55-43a6-9d07-93b9918b624e"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "CLASSES HORAIRES AMENAGES",
+    "Icon": "/Assets/DataImages/clock.png",
+    "Target": "CLASSESHORAIRESAMENAGESListPage",
+    "_id": "abb68708-9e17-4af4-bba8-97b5f838a570"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "ENSA",
+    "Icon": "/Assets/DataImages/ensa.png",
+    "Target": "ENSAListPage",
+    "_id": "6006f4ff-0f11-4c1f-b386-26bb44c52f0d"
+  }
+]

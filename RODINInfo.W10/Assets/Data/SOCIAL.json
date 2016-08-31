@@ -1,0 +1,23 @@
+[
+  {
+    "MenuType": "Page",
+    "Title": "Flickr",
+    "Icon": "/Assets/DataImages/flickr.png",
+    "Target": "FlickrListPage",
+    "_id": "3c406e4f-ae54-48a1-9798-adfeabbd3364"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "YouTube",
+    "Icon": "/Assets/DataImages/youtube.png",
+    "Target": "YouTubeListPage",
+    "_id": "f208d551-bd31-4d98-b545-043235f60e5c"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Twitter",
+    "Icon": "/Assets/DataImages/twitter.png",
+    "Target": "TwitterListPage",
+    "_id": "d32455c8-cbe5-4639-ad5e-299f302500dc"
+  }
+]

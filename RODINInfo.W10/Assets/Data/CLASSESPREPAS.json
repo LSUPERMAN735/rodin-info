@@ -1,0 +1,23 @@
+[
+  {
+    "MenuType": "Page",
+    "Title": "CANDIDATURE PROCEDURE",
+    "Icon": "/Assets/DataImages/adm.png",
+    "Target": "CANDIDATUREPROCEDUREListPage",
+    "_id": "b11791b4-c2d4-4051-9951-4cc18f3d8afb"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "INSCRIPTION EN CPGE",
+    "Icon": "/Assets/DataImages/cpgee-2.png",
+    "Target": "INSCRIPTIONENCPGEListPage",
+    "_id": "68323f5d-7d3d-434c-9e59-496651f389be"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "bibliographies",
+    "Icon": "/Assets/DataImages/bibliogra.png",
+    "Target": "BibliographiesListPage",
+    "_id": "67ac824e-585c-442f-b424-9cf83cf45063"
+  }
+]

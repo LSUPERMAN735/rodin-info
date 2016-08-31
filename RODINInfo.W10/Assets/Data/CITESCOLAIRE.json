@@ -1,0 +1,51 @@
+[
+  {
+    "MenuType": "Page",
+    "Title": "PRESENTATION",
+    "Icon": "/Assets/DataImages/prsetation-1.png",
+    "Target": "PRESENTATIONListPage",
+    "_id": "6cd121d5-ea39-43bb-aede-4ed147c26c7c"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "VUE DE LA CITE SCOLAIRE",
+    "Icon": "/Assets/DataImages/lycee_rodin_rue_corv-1.png",
+    "Target": "VUEDELACITESCOLAIREListPage",
+    "_id": "33516ce4-f6c5-4b6e-8cfd-a0cc8b6e3a81"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "HISTOIRE DE RODIN",
+    "Icon": "/Assets/DataImages/603px-auguste_rodin_.png",
+    "Target": "HISTOIREDERODINListPage",
+    "_id": "1c3ce6b9-f578-4c50-86de-1ba4b708e7b2"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "ORGANIGRAMME",
+    "Icon": "/Assets/DataImages/organigramme-1.png",
+    "Target": "ORGANIGRAMMEListPage",
+    "_id": "c17611ac-3056-4005-97e1-0c3af9a24a7c"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "INJS",
+    "Icon": "/Assets/DataImages/injs.png",
+    "Target": "INJSListPage",
+    "_id": "ed489b1b-208c-457c-80d9-b3f846a33a64"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "LES REPAS",
+    "Icon": "/Assets/DataImages/reapsfoood.png",
+    "Target": "LESREPASListPage",
+    "_id": "14b7ede9-3f1d-4fe9-a694-d59eb6b457c7"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "ASSOCIATION SPORTIVE",
+    "Icon": "/Assets/DataImages/unsss-1.png",
+    "Target": "ASSOCIATIONSPORTIVEListPage",
+    "_id": "d77165a1-bbc4-4736-a94a-aef390c7005c"
+  }
+]
